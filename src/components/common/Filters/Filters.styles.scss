@@ -1,0 +1,37 @@
+.filters-container {
+  background-color: #f4fdfb;
+  border: 1px solid #6cf0d1;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    label {
+      display: flex;
+      flex-direction: column;
+      font-weight: 500;
+      flex: 1;
+      min-width: 140px;
+      color: #333;
+
+      input,
+      select {
+        margin-top: 0.25rem;
+        padding: 0.5rem;
+        border: 1px solid #6cf0d1;
+        border-radius: 0.25rem;
+        font-size: 0.9rem;
+        transition: box-shadow 0.2s;
+
+        &:focus {
+          outline: none;
+          box-shadow: 0 0 0 2px rgba(6, 189, 146, 0.3);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+.order-history {
+  margin-top: 1.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  h3 {
+    margin-bottom: 0.5rem;
+    color: #333;
+    font-size: 1.1rem;
+  }
+
+  &__table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th,
+    td {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid #ddd;
+    }
+
+    thead th {
+      background-color: #f4f4f4;
+      color: #06BD92;
+      font-weight: 600;
+      text-align: left;
+    }
+
+    tbody tr:nth-child(even) td {
+      background-color: #fafafa;
+    }
+
+    td {
+      color: #555;
+    }
+  }
+}
