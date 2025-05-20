@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação front-end em React + TypeScript para visualização e gerenciamento de ordens de compra e venda de ativos financeiros.
 
+https://exchange-one-eta.vercel.app/
+
 ## 🛠️ Tecnologias
 
 - **React** (v18+)
