@@ -4,7 +4,7 @@ Este projeto é uma aplicação front-end em React + TypeScript para visualizaç
 
 https://exchange-one-eta.vercel.app/
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **React** (v18+)
 - **TypeScript**
@@ -13,7 +13,7 @@ https://exchange-one-eta.vercel.app/
 - **SCSS** para estilos
 - **React Testing Library** + **Jest** para testes
 
-## 🚀 Instalação e execução
+## Instalação e execução
 
 1. **Clone o repositório**
 
@@ -38,7 +38,7 @@ https://exchange-one-eta.vercel.app/
    http://localhost:5173
 
 
-## 📦 Scripts disponíveis
+## Scripts disponíveis
 
 ```bash
    npm run dev
