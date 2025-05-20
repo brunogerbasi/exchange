@@ -21,9 +21,7 @@
     "types": [
       "vite/client",
       "jest",
-      "@testing-library/jest-dom",
-      "msw"
-    ],
+      "@testing-library/jest-dom",    ],
 
     /* Linting */
     "strict": true,
